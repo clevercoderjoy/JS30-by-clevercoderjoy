@@ -1,1 +1,1 @@
-[JS30-drumKit-clevercoderjoy](https://playcode.io/1510622)
+<a href="http://example.com/" target="_blank">Hello, world!</a>
